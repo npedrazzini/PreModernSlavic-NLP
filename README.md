@@ -24,7 +24,7 @@ The extracted parts of speech is indicated before each group of stop words, and 
 - indefinite pronouns
 - prepositions
 
-The list is formatted following spaCy's convention, but it's divided by PoS (which is normally not the case there). If you prefer working with different formats, see §stopwords.csv and §extractstopwords.py.
+The list is formatted following spaCy's convention, but it's divided by PoS (which is normally not the case there). If you prefer working with different formats, see §[stopwords.csv](https://github.com/npedrazzini/PreModernSlavic-NLP#stopwordscsv) and §[extractstopwords.py](https://github.com/npedrazzini/PreModernSlavic-NLP#extractstopwordspy).
 
 ## stopwords.csv
 This contains the raw data extracted from TOROT, divided by columns (lemma_id, pos, form, lemma). Disregard lemma_id for the purpose of extracting stop words (that is just for easier retrieval of a particular lemma in TOROT).
