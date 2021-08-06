@@ -34,4 +34,4 @@ This is the script used to generate _stopwords.py_. It extracts unique forms att
 
 ## References
 <a id="1">[1]</a> 
-Eckhoff, Hanne & Bech, Kristin & Bouma, Gerlof & Eide, Kristine & Haug, Dag & Haugen, Odd & Jøhndal, Marius. (2018). The PROIEL treebank family: a standard for early attestations of Indo-European languages. Language Resources and Evaluation. 52. 10.1007/s10579-017-9388-5. 
+Eckhoff, Hanne & Bech, Kristin & Bouma, Gerlof & Eide, Kristine & Haug, Dag & Haugen, Odd & Jøhndal, Marius. (2018). The PROIEL treebank family: a standard for early attestations of Indo-European languages. _Language Resources and Evaluation_. 52. DOI:10.1007/s10579-017-9388-5. 
