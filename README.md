@@ -6,7 +6,7 @@ Working draft containing potential PMSl stop words. These were automatically ext
 - All forms of _byti_ attested in the corpus.
 - All attested forms of specific parts of speech.
 
-<img src="https://github.com/npedrazzini/PreModernSlavic-NLP/blob/images/POS_PROIEL.png" alt="drawing" width="600"/>
+<img src="https://github.com/npedrazzini/PreModernSlavic-NLP/blob/main/POS_PROIEL.png" alt="drawing" width="600"/>
 
 The extracted parts of speech is indicated before each group of stop words, and the classification and abbreviations follow the PROIEL convention (see Figure taken from [[1]](#1)). The list so far includes: 
 
