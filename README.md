@@ -8,7 +8,7 @@ Working draft containing potential PMSl stop words. These were automatically ext
 
 <img src="https://github.com/npedrazzini/PreModernSlavic-NLP/blob/main/POS_PROIEL.png" alt="drawing" width="600"/>
 
-The extracted parts of speech is indicated before each group of stop words, and the classification and abbreviations follow the PROIEL convention (see Figure taken from [[1]](#1)). The list so far includes: 
+The extracted part of speech is indicated before each group of stop words, and the classification and abbreviations follow the PROIEL convention (see Figure taken from [[1]](#1)). The list so far includes: 
 
 - conjunctions
 - relative adverbs
