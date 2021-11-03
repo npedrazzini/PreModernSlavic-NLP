@@ -3,23 +3,18 @@ Mixed drafts, scripts or data useful for NLP tasks on Pre-Modern Slavic.
 
 ## Part-of-Speech Tagging and Morphological Analysis
 
-### Scherrer, Mocken & Rabus's *lstmtagger*
-State of the art on generic pre-modern Slavic PoS tagging and morphological analysis as of Oct 2021 is still https://github.com/yvesscherrer/lstmtagger [[2]](#2).
+* Scherrer, Mocken & Rabus's *lstmtagger* [[2]](#2): still the state of the art on generic pre-modern Slavic PoS tagging and morphological analysis as of Oct 2021 (here: https://github.com/yvesscherrer/lstmtagger).
 
-### Baranov et al.'s (2007) Old Russian morphological analyzer
-Morphological analyzer specifically for Old East Slavic (Old Russian): http://manuscripts.ru/mns/slov.poisk?p_lang=EN [[4]](#4).
+* Baranov et al.'s (2007) Old Russian morphological analyzer [[4]](#4): morphological analyzer specifically for Old East Slavic (Old Russian). Here: http://manuscripts.ru/mns/slov.poisk?p_lang=EN.
 
-### Berdicevskis et al.'s (2011) Middle Russian morphological analyzer
-PoS tagger, lemmatizer and morphological analyzer specifically for Middle Russian: http://www.dialog-21.ru/media/3384/berdičevskisaetal.pdf [[6]](#6).
+* Berdicevskis et al.'s (2011) Middle Russian morphological analyzer [[6]](#6): PoS tagger, lemmatizer and morphological analyzer specifically for Middle Russian. Here: http://www.dialog-21.ru/media/3384/berdičevskisaetal.pdf.
 
-### Meyer (2011) Old Russian morphological analysis via modern-translation projection
-Morphological analysis specifically for Old East Slavic (Old Russian), via annotation projection from Modern Russian: https://www.semanticscholar.org/paper/New-wine-in-old-wineskins—Tagging-Old-Russian-via-Meyer/10e0f26bc97bd054cd31546a90de1559f90b944f [[5]](#5)
+* Meyer (2011) Old East Slavic morphological analysis via modern-translation projection: https://www.semanticscholar.org/paper/New-wine-in-old-wineskins—Tagging-Old-Russian-via-Meyer/10e0f26bc97bd054cd31546a90de1559f90b944f [[5]](#5)
 
 
 ## Dependency Parsing
 
-### Pedrazzini & Eckhoff's *OldSlavNet*
-State of the art on pre-modern Slavic dependency parsing as of Oct 2021 is still https://npedrazzini.github.io/OldSlavNet/. [[3]](#3)
+* Pedrazzini & Eckhoff's *OldSlavNet* [[3]](#3). Here: https://npedrazzini.github.io/OldSlavNet/.
 
 ## Stop Words
 
@@ -55,7 +50,7 @@ The extracted part of speech is indicated before each group of stop words, and t
 The list is formatted following spaCy's convention, but it's divided by PoS (which is normally not the case there). If you prefer working with different formats, see §[stopwords.csv](https://github.com/npedrazzini/PreModernSlavic-NLP#stopwordscsv) and §[extractstopwords.py](https://github.com/npedrazzini/PreModernSlavic-NLP#extractstopwordspy).
 
 ## Gold Standards
-Gold standard for morphology and dependency tags for Old Church Slavonic/Later Church Slavonic, Old East Slavic, and Middle Russian can be downloaded from 
+Gold standard for morphology and dependency tags for Old Church Slavonic/Later Church Slavonic, Old East Slavic, and Middle Russian can be downloaded in CoNLL-X and PROIEL-XML format from the official TOROT releases: http://torottreebank.github.io. Command line tools to manipulate these data here: http://dev.syntacticus.org/development-guide/#manipulating-proiel-xml-treebank-files 
 
 ## References
 <a id="1">[1]</a> Eckhoff, H., Bech, K., Bouma, G. & Eide, K., Haug, D., Haugen, O. & Jøhndal, M. 2018. The PROIEL treebank family: a standard for early attestations of Indo-European languages. _Language Resources and Evaluation_. 52. DOI:10.1007/s10579-017-9388-5. 
